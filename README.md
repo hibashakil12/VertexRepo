@@ -1,2 +1,2 @@
 # VertexRepo
-I am buliding a company website
+This is a company website
